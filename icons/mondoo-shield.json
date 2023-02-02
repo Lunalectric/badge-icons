@@ -1,0 +1,11 @@
+/ 20230202001157
+// https://raw.githubusercontent.com/Lunalectric/gcp-proj-lunalectric-366219/shields/shields.json?token=GHSAT0AAAAAABQKSWFVH3DCF5SCIR7TMJXQY63OCEA
+
+{
+  "cnspec-pre-scan": {
+    "label": "cnspec-pre-scan",
+    "icon": "https://raw.githubusercontent.com/Lunalectric/badge-icons/main/icons/mondoo-gradient-logo.svg",
+    "status": "success",
+    "color": "8155BA"
+  }
+}
